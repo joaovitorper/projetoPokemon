@@ -27,18 +27,6 @@ body {
     transition: all 0.3s ease;
 }
 
-/* Classes para os diferentes tipos de Pokémon */
-.electric-type {
-    background: linear-gradient(to bottom, #ffd700, #ffb700);
-}
-
-.fire-type {
-    background: linear-gradient(to bottom, #ff6b6b, #ff4757);
-}
-
-.water-type {
-    background: linear-gradient(to bottom, #70a1ff, #1e90ff);
-}
 
 .pokemon-image {
     padding: 20px;
