@@ -5,5 +5,6 @@ function ativarcharmander(){
 document.getElementById("pokemon-img").src="imagens/charmander.png";
 }
 function ativarsquirtle(){
+document.getElementById("pokemon-img").src="imagens/squirtle.png"
 
 }
